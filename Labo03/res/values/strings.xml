@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Labo03</string>
+ <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt1">1</string>
+    <string name="bt2">2</string>
+    <string name="bt3">3</string>
+    <string name="bt4">4</string>
+    <string name="bt5">5</string>
+    <string name="bt6">6</string>
+    <string name="bt7">7</string>
+    <string name="bt8">8</string>
+    <string name="bt9">9</string>
+    <string name="bt10">0</string>
+    <string name="btad">+</string>
+    <string name="btsb">-</string>
+    <string name="btdiv">/</string>
+    <string name="btmult">*</string>
+    <string name="btig">=</string>
+    
+    
+
+</resources>
